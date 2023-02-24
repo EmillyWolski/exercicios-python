@@ -1,13 +1,13 @@
 ## Curso de Python 🚩
+<strong>Python</strong> é uma linguagem de programação de alto nível, dinâmica, interpretada, modular, multiplataforma e orientada a objetos. É uma linguagem de compreensão bastante acessível, com uma sintaxe simples e legibilidade clara. O Python pode ser utilizado para qualquer uma das aplicações abaixo:
 <br>
-Python é uma linguagem de programação de alto nível, dinâmica, interpretada, modular, multiplataforma e orientada a objetos. É uma linguagem de compreensão bastante acessível, com uma sintaxe simples e legibilidade clara. O Python pode ser utilizado para qualquer uma das áreas abaixo:
-
 - Construção de Sites;
 - Inteligência Artificial;
+- Ciência de Dados;
 - Desenvolvimento de Aplicativos Mobile;
 - Automações, Cálculos, Busca de Informações no mercado financeiro, etc.<br>
 
-O curso de <strong>Python</strong> da Hashtag Treinamentos é voltado ao aprendizado e aplicação da linguagem Python para diferentes segnmentos da tecnologia, como os citados acima. Ao longo dos módulos, novos conteúdos serão estudados, postos em prática e disponibilizados neste repositório.
+O curso de <strong>Python</strong> da Hashtag Treinamentos é voltado ao aprendizado e aplicação da linguagem Python para diferentes segmentos da tecnologia, como os citados acima. Ao longo dos módulos, novos conteúdos serão estudados, postos em prática e disponibilizados neste repositório.
 <br>
 
 ## Tecnologias utilizadas 📌
